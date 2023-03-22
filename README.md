@@ -23,6 +23,8 @@ This project aims to develop a machine learning model that can predict the psych
 * Flask
 * Seaborn
 * Matplotlib
+* HTML
+* CSS
 
 
 
