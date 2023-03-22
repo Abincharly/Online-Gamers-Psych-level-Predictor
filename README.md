@@ -1,6 +1,6 @@
 # Online-Gamers-Psych-level-Predictor
 
-Click here : http://onlinegamerspsychlevelpred.pythonanywhere.com/
+## Click here:- [Click Here](http://onlinegamerspsychlevelpred.pythonanywhere.com/)
 
 **Project Overview**
 
@@ -24,17 +24,7 @@ This project aims to develop a machine learning model that can predict the psych
 * Seaborn
 * Matplotlib
 
-**Installation and Setup**
 
-* Clone the repository
-* Install the required dependencies using pip install -r requirements.txt
-* Run the Flask app using python app.py
-
-**Usage**
-
-* Fill out the standardized questionnaires for GAD-7 and SWLS
-* Input the scores into the Flask app
-* Get a real-time prediction of your psychology level based on the machine learning model
 
 
 
