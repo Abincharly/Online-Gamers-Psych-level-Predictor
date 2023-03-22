@@ -1,6 +1,6 @@
 # Online-Gamers-Psych-level-Predictor
 
-
+Click here : http://onlinegamerspsychlevelpred.pythonanywhere.com/
 
 **Project Overview**
 
@@ -15,24 +15,26 @@ This project aims to develop a machine learning model that can predict the psych
 * Provides real-time predictions of psychology levels of online gamers
 
 **Technology Stack**
-Python
-Scikit-learn
-Pandas
-NumPy
-Flask
-Seaborn
-Matplotlib
+
+* Python
+* Scikit-learn
+* Pandas
+* NumPy
+* Flask
+* Seaborn
+* Matplotlib
 
 **Installation and Setup**
-Clone the repository
-Install the required dependencies using pip install -r requirements.txt
-Run the Flask app using python app.py
+
+* Clone the repository
+* Install the required dependencies using pip install -r requirements.txt
+* Run the Flask app using python app.py
 
 **Usage**
-Fill out the standardized questionnaires for GAD-7 and SWLS
-Input the scores into the Flask app
-Get a real-time prediction of your psychology level based on the machine learning model
 
-Dataset link: https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data
+* Fill out the standardized questionnaires for GAD-7 and SWLS
+* Input the scores into the Flask app
+* Get a real-time prediction of your psychology level based on the machine learning model
+
 
 
